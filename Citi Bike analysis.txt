@@ -1,0 +1,4 @@
+Citi Bike Analysis:
+Dashboard 1: This dashboard brings together three charts. The first one is the riders’ trip duration by birth year. The second is the total time spent on rides by subscribers and customers. The third is the location of the riders by birth year. Citi Bike’s riders that have the longest duration are born in the 80s. Subscribers tend to ride bikes more which makes sense as they have a membership. Latitude of 40 and longitude of -73 is where most of the riders are clustered.
+Dashboard 2: This dashboard brings together three charts. The first one is the riders by birth year. The second one reflects the riders by membership type. The third separates riders by gender. This gives insight into the population that Citi Bike should target. Most of the riders that comprise this dataset are born in the 80s. Subscribers spend the most time on bikes. Gender doesn’t seem to have much of an impact on riders. 
+
